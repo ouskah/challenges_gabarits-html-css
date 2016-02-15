@@ -1,0 +1,51 @@
+html, body{
+    margin-top: 0px;
+}
+
+.container{
+    margin: 0 auto;
+    margin-bottom: 200px;
+    width: 700px;
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+}
+
+header {
+    background-color: red;
+    width: 100%;
+    height: 100px;
+}
+
+main {
+    background-color: blue;
+    height: 500px;
+}
+
+nav{
+    background-color: greenyellow;
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+
+footer{
+    background-color: yellow;
+    height: 100px;
+    width: 100%;
+}
+
+section > main, nav, aside {
+    display: inline-block;
+}
+
+section > main {
+    width: 60%;    
+}
+
+aside{
+    background-color: blueviolet;
+    width: 20%;
+    height: 500px;
+    float: right;
+}
