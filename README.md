@@ -2,8 +2,7 @@
 
 <hr>  
 
-
-http://chatchan.us/gabarits.html
+[Voir aperçu du gabarit obtenu](http://htmlpreview.github.io/?https://github.com/ouskah/challenges_gabarits-html-css/blob/master/chatchan.html)
 
 
 
